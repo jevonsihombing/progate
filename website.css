@@ -1,0 +1,156 @@
+body {
+    font-family: "Avenir Next";
+  }
+  
+  li {
+    list-style: none;
+  }
+  
+.website {
+    background-color: #26d0c9;
+    color: #fff;
+    height: 90px;
+  }
+  
+.website-saya {
+    float: left;
+    font-size: 36px;
+    padding: 20px 40px;
+  }
+  
+.website-list li{
+    float: left;
+    text-decoration: none;
+    padding:33px 20px;
+    color:white;
+}
+.website-list li a{
+    text-decoration: none;
+    color: white;
+
+}
+.tentang-saya {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    background-color: rgb(244, 244, 244);;
+}
+.link-container h1 {
+    font-size: 100px;
+    margin-bottom: 0px;
+    letter-spacing: 10px;
+    text-align: center;
+  }
+  .link-container h2 {
+    font-size: 60px;
+    font-weight: 200;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    text-align: center;
+  }
+  
+.link-container span {
+    color: blue;
+  }
+.link-container img{
+    height:300px;
+    text-align: center;
+    margin: auto;
+    display:block;
+}
+.tentang-saya h3{
+    text-align: center;
+}
+.tentang-saya p{
+    text-align: center;
+}
+.tentang {
+    height: 500px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+  }
+.tentang h3{
+    text-align: center;
+}
+.tentang-item h3 {
+    font-size: 28px;
+    padding-bottom: 20px;
+    text-align: center;
+  }
+.tentang-item {
+    float: left;
+    width: 33.3%;
+    text-align: center;
+  }
+.tentang-item img{
+    height: 300px;
+    box-shadow: 5px 5px 20px rgba(228, 228, 228, 0.886);
+  }
+.tentang-item p {
+    font-size: 24px;
+    margin-top: 30px;
+    text-align: center;
+}
+.hubungi {
+    height: 500px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    background-color: rgb(244, 244, 244);
+    text-align: center;
+  }
+  .hubungi-saya {
+    font-size: 28px;
+    padding-bottom: 20px;
+  }
+  
+  input, textarea {
+    width: 800px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    padding:20px;
+    font-size: 18px;
+    border: 0px;
+    background-color: #ffffff;
+    border-radius: 15px;
+  }
+  ::placeholder {
+    font-family: "Avenir Next";
+    color:#7C7D83;
+  }
+.hubungi-submit{
+    width: 500px;
+    background-color:#f7ea8a;
+    color:#4f4f4f;
+    font-size: 22px;
+ }
+.hubungi- p{
+    font-size: 20px;
+  }
+  .footer {
+    background-color: #7C7D83;
+    color: #fff;
+    height: 120px;
+    padding: 40px;
+  }
+  
+  .footer-logo {
+    float: left;
+    font-size: 32px;
+    font-size: 30px;
+    font-weight:700;
+    letter-spacing: 10px;
+  }
+  
+  .footer-list {
+    float: right;
+  }
+  
+  .footer-list li {
+    padding-bottom: 20px;
+  }
+  
+  .footer-list a {
+    text-decoration: none;
+    color:#fff;
+  }
+  
+  
